@@ -16,4 +16,4 @@ class BadClass:
 bad = BadClass(val=0)
 even_worse = {bad}
 assert bad in even_worse
-print('yeah, we good!')
+print('yeah, wee good!')
